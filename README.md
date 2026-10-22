@@ -6,3 +6,4 @@ in vscode terminal push commands:
 git add .
 git commit -m "write name of the changes u made"
 git push
+   
