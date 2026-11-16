@@ -1,5 +1,9 @@
 <div align="center">
-
+ <div align="center">
+  <a href="https://github.com/Regynoxcs">
+    <img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=600&size=22&pause=1000&color=FF4D8D&center=true&vCenter=true&width=680&lines=Frontend+Software+Development;WordPress+Development;Data+Annotation;Image+Annotation;LiDAR+Annotation;2D+%26+3D+Annotation;Content+Creator" alt="Animated Typing Subtitle" />
+  </a>
+</div>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=ff8fab&height=170&section=header&text=Hi%20there,%20I'm%20Regynoxcs%20%F0%9F%8E%80&fontSize=34&fontColor=ffffff&animation=twinkling" width="100%" alt="Pink Wave Banner"/>
 
 <br>
