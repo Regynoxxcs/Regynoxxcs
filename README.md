@@ -1,52 +1,63 @@
-### Hi there, I'm Regynoxcs 👋 
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=ff8fab&height=170&section=header&text=Hi%20there,%20I'm%20Regynoxcs%20%F0%9F%8E%80&fontSize=34&fontColor=ffffff&animation=twinkling" width="100%" alt="Pink Wave Banner"/>
 
 <br>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Regynox&color=blueviolet&style=flat-square" alt="Profile Views" />
-  <img src="https://img.shields.io/badge/Status-Coding%20%26%20Building-success?style=flat-square" alt="Status">
-</p>
+<!-- Cute Pastel Badges -->
+<img src="https://img.shields.io/badge/CS%20Graduate-ffb3c6?style=for-the-badge&logo=python&logoColor=white" alt="CS Graduate"/>
+<img src="https://img.shields.io/badge/Data%20%26%20QA-ff8fab?style=for-the-badge&logo=databricks&logoColor=white" alt="Data and QA"/>
+<img src="https://img.shields.io/badge/Frontend%20%26%20UI-fb6f92?style=for-the-badge&logo=css3&logoColor=white" alt="Frontend and UI"/>
+<img src="https://img.shields.io/badge/Nairobi%2C%20Kenya-ffc2d1?style=for-the-badge&logo=pinboard&logoColor=white" alt="Nairobi, Kenya"/>
 
----
+</div>
 
-### 💻 About Me
-* 🌱 I’m a Computer Science graduate passionate about building clean web interfaces, optimizing data workflows, and solving technical challenges.
-* 🔭 Experienced in **Data Annotation, Quality Assurance Review, and AI Data Training** (bounding box, polygon masks, data auditing).
-* ⚡ Background in EV technical troubleshooting and frontend web design using HTML, CSS, JavaScript, and Tailwind.
-* 🚀 Creator of projects like **Hisia** (an emotional wellness web application with Sheng prompts) and **Fanuzi Studio**.
+<br>
 
----
+<!-- Pink-Accented Intro Box -->
+<table>
+  <tr>
+    <td bgcolor="#fff0f5">
+      <h2 align="center">🌸 About Me</h2>
+      <p align="center">
+        I'm a <b>Computer Science graduate</b> based in <b>Nairobi, Kenya</b> who loves blending clean, expressive interfaces with rock-solid data workflows.
+      </p>
+      <ul>
+        <li>🎀 <b>Data Annotation &amp; QA:</b> Experienced in 2D &amp; 3D annotation, bounding boxes, polygon masks, and quality auditing for AI datasets.</li>
+        <li>💻 <b>Creative Coding &amp; Web:</b> Building responsive UIs with HTML, CSS, JavaScript, and Tailwind—plus exploring Python &amp; security tools.</li>
+        <li>⚡ <b>Tech &amp; Troubleshooting:</b> Background in EV technical troubleshooting and turning ideas into real projects.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
-### 🛠️ Tech Stack & Tools
+<br>
 
-| Category | Technologies & Tools |
-| :--- | :--- |
-| **Languages** | HTML, CSS, JavaScript, C++, VB.NET, R, SQL |
-| **Frontend & Design** | Tailwind CSS, Base44, Canva, Responsive Web Design |
-| **Data & QA** | Dataset Auditing, Annotation Quality Assurance, Data Review |
-| **Tools & Version Control** | Git, GitHub, VS Code, Linux |
+## ✨ Featured Projects
 
----
+| Project | What It Is | Vibe &amp; Focus |
+| :--- | :--- | :--- |
+| **Hisia** | Emotional check-in web app with interactive mood analytics &amp; localized context | Thoughtful UI, mood tracking, everyday wellness |
+| **Fanuzi Studio** | Personal agency &amp; portfolio showcase for web work, Canva designs &amp; annotation workflows | Clean layout, visual storytelling, structured case studies |
 
-### 🚀 Featured Projects
+<br>
 
-* **[Hisia](https://github.com/Regynox)** — A web application for emotional check-ins featuring interactive mood analytics and localized context.
-* **[Fanuzi Studio](https://github.com/Regynox)** — A personal agency and portfolio platform showcasing web development work, Canva designs, and annotation workflows.
+## 🛠️ Tech Stack &amp; Tools
 
----
+* **Languages &amp; Web:** HTML5, CSS3, JavaScript, Python, C++, VB.NET, R, SQL
+* **Styling &amp; Design:** Tailwind CSS, Canva, Responsive Web Design
+* **Workflow &amp; Tools:** Git, GitHub, VS Code, Linux
 
-### 📊 GitHub Stats
+<br>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Regynox&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Regynox's GitHub Stats" />
-</p>
+## 💌 Let's Connect
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Regynox&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
+* 🌐 **Studio &amp; Portfolio:** Fanuzi Studio
+* 📍 **Location:** Nairobi, Kenya
+* 🎥 **Content &amp; Coding:** Sharing honest dev journey moments, builds, and experiments
 
----
+<br>
 
-### 📫 Connect With Me
-* **Portfolio / Agency:** [Fanuzi Studio](https://github.com/Regynox)
-* **Location:** Nairobi, Kenya
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ffc2d1&height=100&section=footer" width="100%" alt="Pink Footer Wave"/>
+</div>
