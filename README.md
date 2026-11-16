@@ -1,4 +1,4 @@
-### Hi there, I'm Regynox 👋 
+### Hi there, I'm Regynoxcs 👋 
 
 <br>
 
